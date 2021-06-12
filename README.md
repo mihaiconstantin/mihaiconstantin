@@ -1,6 +1,6 @@
-## Hi, I'm Mihai!
+### Hi, I'm Mihai!
 
-*...(currently) a PhD student that mingles with psychology, data science & software engineering in the Netherlands.*
+***...a PhD student (currently) that mingles with psychology, data science & software engineering in the Netherlands.***
 
 I am passionate about the intersection of research, psychology, data science, and web development.
 
